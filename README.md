@@ -2,9 +2,9 @@
 
 ### Intro
 This image is based on [CircleCI's Ruby image](https://hub.docker.com/r/circleci/ruby/). Packages include
-- Ruby: 2.3.7p456
+- Ruby: 2.5.1p57
 - Python: 2.7.13
-- AWS CLI: 1.15.38
+- AWS CLI: 1.15.63
 
 ### Build image
 ```

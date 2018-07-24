@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.3
+FROM circleci/ruby:2.5
 
 USER root
 
